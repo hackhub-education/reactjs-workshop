@@ -32,6 +32,10 @@ var App = React.createClass({
           imagePath="images/pokeball-1.png"
           imageWidth="300px"
           imageHeight="300px" />
+        <PokeBall
+          imagePath="images/pokeball-2.png"
+          imageWidth="300px"
+          imageHeight="300px" />
       </div>
     )
   }
